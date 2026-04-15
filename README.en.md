@@ -1,4 +1,4 @@
-# AI Leadership Papers | AI 领导力思想文库
+# AI Leadership Papers
 
 <div align="center">
 
@@ -22,16 +22,13 @@ All content is based on real-world experience—no empty theories, only actionab
 
 ---
 
-## 📚 Article Directory
+## 📚 Articles
 
-### 📌 Digital Employee Management Methodology
-
-| Article | Published Date | Status |
-|---------|---------------|--------|
-| [数字员工管理方法论：从构建到评价的五层模型](articles/数字员工管理方法论_深度思考.md) | 2025-04 | ✅ Published |
-| [Digital Employee Management: A Five-Layer Model from Build to Evaluate](articles/digital-employee-management-deep-thinking.md) | 2025-04 | ✅ Published |
-
-> **Core Insight**: Digital employees are not tools, they are colleagues. Lead them as you would lead a human team.
+| Article | Published Date |
+|---------|---------------|
+| [The Instructor's Digital Assistant: How AI Agents Are Reconstructing Teacher Lesson Preparation Workflows](articles/Instructor-Digital-Assistant-AI-Agent-Lesson-Planning-2026.md) 🆕 | 2026-04-15 |
+| [Why Your Digital Employee Isn't Producing Value? 90% of Bosses Get Stuck at These Five Layers (2026 Edition)](articles/Why-Your-Digital-Employee-Isnt-Producing-Value-2026.md) | 2026-04-15 |
+| [Digital Employee Management: A Five-Layer Model from Build to Evaluate](articles/digital-employee-management-five-layer-model-en.md) | 2025-04 |
 
 ---
 
@@ -52,41 +49,15 @@ All content is based on real-world experience—no empty theories, only actionab
 **Five Layers Explained**:
 
 1. **Build** - Selection, Setup, Integration: Define job description, choose tech stack
-2. **Form** - Training,磨合, Trust: Build feedback loops, allow mistakes
+2. **Form** - Training, Breaking-in, Trust: Build feedback loops, allow mistakes
 3. **Guide** - Direction, Goals, Boundaries: Communicate strategic intent, set boundaries
 4. **Lead** - Collaboration, Empowerment, Growth: Deep integration, continuous evolution
 5. **Evaluate** - Value, ROI, Iteration: Three dimensions—efficiency, quality, opportunity
 
 ---
 
-## 📚 Published Books
-
-| Title | Publisher | Publication Date | Status |
-|-------|-----------|------------------|--------|
-| 《AI 领导力》(AI Leadership) | China Science and Technology Press | 2024 | ✅ Published |
-| 《决胜数字转型》(Winning Digital Transformation) | - | 2025 | ✅ Published |
-| 《AI 领导力突围》(AI Leadership Breakthrough, for College Students) | - | Apr-May 2025 | 📅 Coming Soon |
-
----
-
-## 🎓 Courses & Training
-
-### Upcoming Courses
-
-| Date | Institution | Topic | Duration |
-|------|-------------|-------|----------|
-| 2025-04-17 | Communication University of China | AI Basics + OpenClaw Hands-on | 6 hours |
-
-### Past Clients
-
-- 30+ state-owned enterprises and central enterprises trained
-- Multiple courses scheduled for 2025
-
----
-
 ## 🔗 Related Links
 
-- **AI Leadership Website**: [aileadership.cn](https://aileadership.cn)
 - **Contact Email**: info@aileadership.cn
 - **GitHub Organization**: [Z5Research](https://github.com/Z5Research)
 
@@ -111,7 +82,7 @@ When citing content from this repository, please use the following format:
 
 ```
 Z5Research. "Article Title". AI Leadership Papers. 
-https://github.com/Z5Research/ai-leadership-papers, 2025.
+https://github.com/Z5Research/ai-leadership-papers, 2026.
 ```
 
 ---

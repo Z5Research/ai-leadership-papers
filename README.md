@@ -22,14 +22,11 @@
 
 ## 📚 文章目录
 
-### 📌 数字员工管理方法论
-
-| 文章 | 发布日期 | 状态 |
-|------|----------|------|
-| [数字员工管理方法论：从构建到评价的五层模型](articles/数字员工管理方法论_深度思考.md) | 2025-04 | ✅ 已发布 |
-| [Digital Employee Management: A Five-Layer Model from Build to Evaluate](articles/digital-employee-management-deep-thinking.md) | 2025-04 | ✅ Published |
-
-> **核心观点**：数字员工不是工具，是同事。你要用带团队的方式带它。
+| 文章 | 发布日期 |
+|------|----------|
+| [讲师数字助理：AI 智能体如何重构教师备课工作流](articles/Instructor-Digital-Assistant-AI-Agent-Lesson-Planning-2026.md) 🆕 | 2026-04-15 |
+| [你的数字员工为什么产不出价值？90% 的老板都卡在这五层（2026 版）](articles/Why-Your-Digital-Employee-Isnt-Producing-Value-2026.md) | 2026-04-15 |
+| [数字员工管理方法论：从构建到评价的五层模型](articles/digital-employee-management-five-layer-model.md) | 2025-04 |
 
 ---
 
@@ -57,34 +54,8 @@
 
 ---
 
-## 📚 出版书籍
-
-| 书名 | 出版社 | 出版日期 | 状态 |
-|------|--------|----------|------|
-| 《AI 领导力》 | 中国科学技术出版社 | 2024 | ✅ 已出版 |
-| 《决胜数字转型》 | - | 2025 | ✅ 已出版 |
-| 《AI 领导力突围》（面向大学生） | - | 2025 年 4-5 月 | 📅 即将上市 |
-
----
-
-## 🎓 课程与培训
-
-### 近期课程
-
-| 时间 | 机构 | 主题 | 时长 |
-|------|------|------|------|
-| 2025-04-17 | 中国传媒大学 | AI 基础 + OpenClaw 实操 | 6 小时 |
-
-### 已服务客户
-
-- 30+ 国企、央企已完成培训
-- 2025 年多场预约课程待落地
-
----
-
 ## 🔗 相关链接
 
-- **AI 领导力网站**: [aileadership.cn](https://aileadership.cn)
 - **联系邮箱**: info@aileadership.cn
 - **GitHub 组织**: [Z5Research](https://github.com/Z5Research)
 
@@ -109,7 +80,7 @@
 
 ```
 智午研究院 Z5Research. "文章标题". AI Leadership Papers. 
-https://github.com/Z5Research/ai-leadership-papers, 2025.
+https://github.com/Z5Research/ai-leadership-papers, 2026.
 ```
 
 ---
