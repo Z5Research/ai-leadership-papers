@@ -1,9 +1,14 @@
 ---
 title: "Cognitive Leverage Theory: Why AI Makes the Strong Stronger and the Weak Weaker"
-description: "Explores how AI acts as a cognitive multiplier that amplifies existing cognitive habits, widening performance gaps and introducing the Cognitive Leverage Coefficient (CLC) framework."
+description: "Introducing Cognitive Leverage Theory - AI is not a capability tool but a multiplier of cognitive habits. Actual output = cognitive habits × AI leverage coefficient (CLC). Includes CLC four-dimensional diagnostic model and 13 enterprise cases."
+keywords: ["AI Leadership", "Cognitive Leverage", "Cognitive Debt", "AI Productivity", "Skill Polarization", "CLC Model", "Management Transformation", "Cognitive Management"]
+tags: ["AI Leadership", "Cognitive Leverage", "Cognitive Debt", "AI Productivity", "Skill Polarization", "CLC Model", "Executives", "Managers"]
 lang: en
-original: "zh/01-cognitive-leverage.md"
+category: "Theory Research"
 date: 2026-04-29
+author: "Z5Research"
+readingTime: 15
+original: "zh/01-cognitive-leverage.md"
 ---
 
 # Cognitive Leverage Theory: Why AI Makes the Strong Stronger and the Weak Weaker

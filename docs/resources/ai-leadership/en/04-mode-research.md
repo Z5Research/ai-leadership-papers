@@ -1,9 +1,14 @@
 ---
-title: "Management Model Transformation in the AI Era: From Bureaucracy to Cognitive Ecology — Deep Research and Practice Paths of Three New Management Models"
-description: "Traces four paradigm shifts in management history since 1911, proposes three new management frameworks (Cognitive Leverage, Dual-Track Leadership, Cognitive Ecology), and introduces four original management tools with enterprise case studies."
+title: "Management Model Transformation in the AI Era: Deep Research of Three New Management Models"
+description: "Integrating cognitive leverage/dual-track leadership/cognitive ecology three models, proposing management model selection framework and M3M maturity model. Includes 13 enterprise cases and four practical tools."
+keywords: ["AI Leadership", "Management Models", "Enterprise Cases", "Practice Paths", "Maturity Model", "M3M", "Cognitive Leverage", "Dual-Track Leadership", "Cognitive Ecology"]
+tags: ["AI Leadership", "Management Models", "Enterprise Cases", "Executives", "Management Consulting", "General"]
 lang: en
-original: "zh/04-mode-research.md"
+category: "Model Research"
 date: 2026-04-29
+author: "Z5Research"
+readingTime: 20
+original: "zh/04-mode-research.md"
 ---
 
 # Management Model Transformation in the AI Era: From Bureaucracy to Cognitive Ecology — Deep Research and Practice Paths of Three New Management Models

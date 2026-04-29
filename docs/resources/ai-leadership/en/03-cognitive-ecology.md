@@ -1,9 +1,14 @@
 ---
 title: "Management Evolution in the AI Era: From Bureaucracy to Cognitive Ecology"
-description: "Explores the third paradigm shift in management theory as AI dismantles the foundational assumptions of bureaucracy, introducing cognitive ecology as the new organizational paradigm."
+description: "From Taylor's scientific management to AI cognitive ecology, tracing four paradigm shifts in management. Proposing cognitive ecology theory and three cognitive roles (leveragers/gatekeepers/translators). Includes 2026-2029 management evolution roadmap."
+keywords: ["AI Leadership", "Cognitive Ecology", "Bureaucracy", "Organizational Evolution", "Taylorism", "Cognitive Roles", "Management Evolution", "Organizational Design"]
+tags: ["AI Leadership", "Cognitive Ecology", "Bureaucracy", "Organizational Evolution", "Scholars", "MBA Students"]
 lang: en
-original: "zh/03-cognitive-ecology.md"
+category: "Organizational Theory"
 date: 2026-04-29
+author: "Z5Research"
+readingTime: 16
+original: "zh/03-cognitive-ecology.md"
 ---
 
 # Management Evolution in the AI Era: From Bureaucracy to Cognitive Ecology

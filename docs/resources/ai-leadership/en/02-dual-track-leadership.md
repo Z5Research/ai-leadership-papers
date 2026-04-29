@@ -1,9 +1,14 @@
 ---
 title: "From Situational Leadership to Cognitive Management: The Paradigm Shift in AI-Era Management"
-description: "Examines why situational leadership fails in the AI era and introduces the Cognitive Management Paradigm with dual-track leadership and cognitive heterogeneity principles."
+description: "Analyzing the失效 of situational leadership in the AI era, proposing cognitive management paradigm. Three pillars: cognitive heterogeneity hypothesis, management action inversion, cognitive translator role. Includes dual-track management action library."
+keywords: ["AI Leadership", "Dual-Track Leadership", "Situational Leadership", "Management Paradigm", "Cognitive Heterogeneity", "Performance Management", "Cognitive Management"]
+tags: ["AI Leadership", "Dual-Track Leadership", "Situational Leadership", "Management Paradigm", "Managers", "Management Consulting"]
 lang: en
-original: "zh/02-dual-track-leadership.md"
+category: "Management Paradigm"
 date: 2026-04-29
+author: "Z5Research"
+readingTime: 18
+original: "zh/02-dual-track-leadership.md"
 ---
 
 # From Situational Leadership to Cognitive Management: The Paradigm Shift in AI-Era Management

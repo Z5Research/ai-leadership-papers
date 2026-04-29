@@ -1,9 +1,14 @@
 ---
-title: "The Evolution of Management Systems: From Bureaucracy to Cognitive Ecology — Fundamental Restructuring of Organizational Architecture in the AI Era"
-description: "An in-depth analysis of how AI is dismantling the four foundational assumptions of bureaucratic management and reconstructing organizational architecture around cognitive ecology, distributed cognition, and process-oriented performance management."
+title: "The Evolution of Management Systems: Fundamental Restructuring of Organizational Architecture in the AI Era"
+description: "Analyzing the restructuring of management systems from four dimensions: organizational structure, decision-making mechanism, performance management, talent development. Proposing four-dimensional management system and three new metrics."
+keywords: ["AI Leadership", "Management Systems", "Distributed Decision-Making", "Talent Development", "Cognitive Contribution", "Organizational Architecture", "Performance Management"]
+tags: ["AI Leadership", "Management Systems", "Distributed Decision-Making", "Executives", "Managers", "General"]
 lang: en
-original: "zh/06-system-evolution.md"
+category: "Management Systems"
 date: 2026-04-29
+author: "Z5Research"
+readingTime: 20
+original: "zh/06-system-evolution.md"
 ---
 
 # The Evolution of Management Systems: From Bureaucracy to Cognitive Ecology — Fundamental Restructuring of Organizational Architecture in the AI Era

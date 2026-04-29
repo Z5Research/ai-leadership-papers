@@ -1,3 +1,15 @@
+---
+title: "认知杠杆理论：为什么AI让强者更强、弱者更弱？"
+description: "提出认知杠杆理论（Cognitive Leverage Theory），揭示AI不是能力工具而是认知习惯的乘数。实际产出=认知习惯×AI杠杆系数（CLC）。含CLC四维诊断模型和13家企业案例。"
+keywords: ["AI领导力", "认知杠杆", "认知负债", "AI效能", "能力分化", "CLC模型", "管理变革", "认知管理"]
+tags: ["AI领导力", "认知杠杆", "认知负债", "AI效能", "能力分化", "CLC模型", "管理变革", "企业高管", "管理者"]
+lang: zh
+category: "理论研究"
+date: 2026-04-29
+author: "Z5Research"
+readingTime: 15
+---
+
 # 认知杠杆理论：为什么AI让强者更强、弱者更弱？
 
 ---
