@@ -24,8 +24,24 @@ All content is based on real-world experience—no empty theories, only actionab
 
 ## 📚 Articles
 
-| Article | Published Date |
-|---------|---------------|
+### AI Leadership Research Zone 🧠
+
+> Deep research articles exploring leadership, management paradigm shifts, and cognitive ecology in the AI era.
+
+| # | Article | Published |
+|---|---------|-----------|
+| 01 | [Cognitive Leverage Theory: Why AI Makes the Strong Stronger and the Weak Weaker](articles/ai-leadership/en/01-cognitive-leverage.md) | 2026-04 |
+| 02 | [From Situational Leadership to Cognitive Management](articles/ai-leadership/en/02-dual-track-leadership.md) | 2026-04 |
+| 03–07 | *Coming soon* | — |
+
+[→ Visit Research Zone (Chinese + English)](https://aileadership.cn/resources/ai-leadership/)
+
+---
+
+### Digital Employee Management
+
+| Article | Published |
+|---------|-----------|
 | [The Instructor's Digital Assistant: How AI Agents Are Reconstructing Teacher Lesson Preparation Workflows](articles/Instructor-Digital-Assistant-AI-Agent-Lesson-Planning-2026.md) 🆕 | 2026-04-15 |
 | [Why Your Digital Employee Isn't Producing Value? 90% of Bosses Get Stuck at These Five Layers (2026 Edition)](articles/Why-Your-Digital-Employee-Isnt-Producing-Value-2026.md) | 2026-04-15 |
 | [Digital Employee Management: A Five-Layer Model from Build to Evaluate](articles/digital-employee-management-five-layer-model-en.md) | 2025-04 |

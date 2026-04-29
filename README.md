@@ -22,6 +22,26 @@
 
 ## 📚 文章目录
 
+### AI 领导力研究专区 🧠
+
+> 深度研究文章系列，探讨 AI 时代领导力、管理范式转移和认知生态。
+
+| # | 文章 | 发布日期 |
+|---|------|----------|
+| 01 | [认知杠杆理论：为什么AI让强者更强、弱者更弱？](articles/ai-leadership/zh/01-cognitive-leverage.md) | 2026-04 |
+| 02 | [从情境领导力到认知管理：AI时代的管理范式转移](articles/ai-leadership/zh/02-dual-track-leadership.md) | 2026-04 |
+| 03 | [AI时代的管理变迁：从科层制到认知生态](articles/ai-leadership/zh/03-cognitive-ecology.md) | 2026-04 |
+| 04 | [AI时代的管理模式变迁：三种新管理模式的深度研究与实践路径](articles/ai-leadership/zh/04-mode-research.md) | 2026-04 |
+| 05 | [管理方法论的变迁：从科学管理到认知管理](articles/ai-leadership/zh/05-methodology-evolution.md) | 2026-04 |
+| 06 | [管理体系的变迁：AI时代组织结构的根本性重构](articles/ai-leadership/zh/06-system-evolution.md) | 2026-04 |
+| 07 | [AI领导力新哲学：后人类时代的管理思想](articles/ai-leadership/zh/07-leadership-philosophy.md) | 2026-04 |
+
+[→ 进入专区首页（含英文版）](https://aileadership.cn/resources/ai-leadership/)
+
+---
+
+### 数字员工管理
+
 | 文章 | 发布日期 |
 |------|----------|
 | [讲师数字助理：AI 智能体如何重构教师备课工作流](articles/Instructor-Digital-Assistant-AI-Agent-Lesson-Planning-2026.md) 🆕 | 2026-04-15 |
